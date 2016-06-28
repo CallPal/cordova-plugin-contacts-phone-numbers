@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-contacts-phonenumbers",
+  "name": "cordova-plugin-callpal-contacts-phonenumbers",
   "version": "0.0.5",
   "description": "Cordova Plugin to List Contacts Phone Numbers ",
   "cordova": {
-    "id": "com.dbaq.cordova.contactsPhoneNumbers",
+    "id": "com.callpal.cordova.contactsPhoneNumbers",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbaq/cordova-plugin-contacts-phone-numbers.git"
+    "url": "git+https://github.com/CallPal/cordova-plugin-contacts-phone-numbers.git"
   },
   "keywords": [
     "cordova",
@@ -23,10 +23,10 @@
     "cordova-android",
     "cordova-ios"
   ],
-  "author": "Didier Baquier",
+  "author": "CallPal LLC",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/dbaq/cordova-plugin-contacts-phone-numbers/issues"
+    "url": "https://github.com/CallPal/cordova-plugin-contacts-phone-numbers/issues"
   },
-  "homepage": "https://github.com/dbaq/cordova-plugin-contacts-phone-numbers#readme"
+  "homepage": "https://github.com/CallPal/cordova-plugin-contacts-phone-numbers#readme"
 }
